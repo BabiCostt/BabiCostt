@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BabiCostt.
+- 👋 Hi, I’m Bárbara Costa, sou desenvolvedora Front-end
 
 
 <!---

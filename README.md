@@ -6,4 +6,6 @@
 - 📚 Atuamente estou aprendendo Html, Css, JavaScript, ReactJs.
 - 🧠 Busco por uma oportunidade de estágio, para fins próximos alcancar a minha primeria vaga.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babicostt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=babicostt&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babicostt&theme=tokyonight)
+

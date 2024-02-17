@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Bárbara Costa, sou desenvolvedora Front-end
+
+# Olá, eu sou a Bárbara Costa👋
 
 
-<!---
-BabiCostt/BabiCostt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Sobre mim
+- Eu sou a Bárbara Costa, sou estudande do curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília - UCB. Comecei a estudar sobre programação início de 2023, desde então, busco me aperfeiçoar para seguir carreira na área de programação.
+- 📚 Atuamente estou aprendendo HTML, CSS, JAVASCRIPT, REACTJS.
+- 🧠 Busco por uma oportunidade de estágio, para fins próximos alcancar a minha primeria vaga.
+
+

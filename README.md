@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Bárbara Costa👋
+# Olá, eu sou Bárbara Costa👋
 
 
 ## 🚀 Sobre mim
